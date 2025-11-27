@@ -57,7 +57,7 @@ animal_sounds <- function(animal, sound) {
   check_arg(animal)
   check_arg(sound)
 
-  paste0("The ", animal, " says ", sound, "!")
+  paste0("The ", animal, " goes ", sound, "!")
 }
 
 
