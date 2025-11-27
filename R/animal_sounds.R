@@ -45,18 +45,3 @@ check_arg <- function(arg, n = 1){
 }
 
 
-#' Head of a Data Frame
-#'
-#' Slices a data frame
-#' @param data A data frame
-#'
-#' @param n An integer
-#'
-#' @export
-#'
-
-first_n <- function(data, n) {
-  data |>
-    dplyr::slice_head()
-}
-

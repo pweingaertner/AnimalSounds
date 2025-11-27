@@ -4,9 +4,9 @@
 \name{AnimalSounds-package}
 \alias{AnimalSounds}
 \alias{AnimalSounds-package}
-\title{AnimalSounds: What the Package Does (One Line, Title Case)}
+\title{AnimalSounds: Prints Animals and Sounds}
 \description{
-What the package does (one paragraph).
+Provides fantastic functionalities related to animals and sounds.
 }
 \seealso{
 Useful links:
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Paul Weingärtner \email{hello@example.com}
 
 }
 \keyword{internal}
