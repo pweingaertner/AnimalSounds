@@ -7,8 +7,8 @@
 \format{
 A data frame with three rows and two columns
 \describe{
-\item{animal}{A string giving the animal name}
-\item{sound}{A string for the animal sound}
+\item{\code{animal}}{A string giving the animal name}
+\item{\code{sound}}{A string for the animal sound}
 }
 }
 \usage{
