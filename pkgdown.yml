@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  AnimalSounds: AnimalSounds.html
+last_built: 2025-11-28T11:03Z
+urls:
+  reference: https://pweingaertner.github.io/AnimalSounds/reference
+  article: https://pweingaertner.github.io/AnimalSounds/articles
