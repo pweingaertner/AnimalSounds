@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/pweingaertner/AnimalSounds/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pweingaertner/AnimalSounds/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of AnimalSounds is to provide humans with a complex tool to
