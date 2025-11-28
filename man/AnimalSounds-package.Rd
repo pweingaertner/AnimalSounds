@@ -12,6 +12,7 @@ Provides fantastic functionalities related to animals and sounds.
 Useful links:
 \itemize{
   \item \url{https://github.com/pweingaertner/AnimalSounds}
+  \item \url{https://pweingaertner.github.io/AnimalSounds/}
   \item Report bugs at \url{https://github.com/pweingaertner/AnimalSounds/issues}
 }
 
