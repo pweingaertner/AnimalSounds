@@ -1,0 +1,32 @@
+---
+title: "AnimalSounds"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{AnimalSounds}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(AnimalSounds)
+```
+
+Print what an animal says:
+
+```{r}
+animal_sounds("dog", "woof")
+animal_sounds("giraffe")
+```
+
+Also contains data:
+
+```{r}
+farm_animals
+```
